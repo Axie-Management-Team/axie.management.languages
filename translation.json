@@ -154,5 +154,8 @@
     "Mark the checkbox whenever you do a payment then it will add in the second table. If you refesh the page all the selected will be Lost.": "",
     "Keep in mind whenever you do a Claim it could have some delay from axie servers. If you just claim you can do the payment without waiting the status to be changed": "",
     "Pending payments": "",
-    "Paid accounts (you mark the check)": ""
+    "Paid accounts (you mark the check)": "",
+    "Copied": "",
+    "The account need to have more than two days in our tracker. We run a job daily at 8 AM Ph time to add the yesterday SLP into account. We can't get your historical data if your account is too new or you did a claim yesterday. You'll need to come tomorrow": "",
+    "The account need to have more than a day in our tracker. We run a job daily at 8 AM Ph time to add the today SLP into account. We can't get your historical data if your account is too new or you did a claim yesterday. You'll need to come tomorrow": ""
   }
