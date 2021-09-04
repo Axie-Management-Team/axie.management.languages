@@ -157,5 +157,6 @@
   "Paid accounts (you mark the check)": "Cuentas pagadas",
   "The account need to have more than two days in our tracker. We run a job daily at 8 AM Ph time to add the yesterday SLP into account. We can't get your historical data if your account is too new or you did a claim yesterday. You'll need to come tomorrow": "La cuenta debe tener más de dos días en nuestro rastreador. Ejecutamos un script todos los días a las 8 a. M. Ph. Para agregar el SLP de ayer en la cuenta. No podemos obtener sus datos históricos si su cuenta es demasiado nueva o si hizo un reclamo ayer. Tendrás que venir mañana",
   "The account need to have more than a day in our tracker. We run a job daily at 8 AM Ph time to add the today SLP into account. We can't get your historical data if your account is too new or you did a claim yesterday. You'll need to come tomorrow": "La cuenta debe tener más de un día en nuestro rastreador. Ejecutamos un script todos los días a las 8 a. M. Ph. Para agregar el SLP de hoy en cuenta. No podemos obtener sus datos históricos si su cuenta es demasiado nueva o si hizo un reclamo ayer. Tendrás que venir mañana",
-  "Copied": "Copiado"
+  "Copied": "Copiado",
+  "Last %numberOfBattles% battles": "Últimas %numberOfBattles% batallas"
 }
