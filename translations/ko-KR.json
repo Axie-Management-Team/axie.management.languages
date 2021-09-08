@@ -158,5 +158,6 @@
   "Copied": "복사됨",
   "The account need to have more than two days in our tracker. We run a job daily at 8 AM Ph time to add the yesterday SLP into account. We can't get your historical data if your account is too new or you did a claim yesterday. You'll need to come tomorrow": "계정은 트래커에 2일 이상 있어야 합니다. 어제 SLP 량을 계정에 추가하기 위해 매일 오전 8시에 작업을 실행합니다. 계정을 새로 추가하거나 어제 청구한 경우 과거 데이터를 가져올 수 없습니다. 내일 다시 시도해야합니다.",
   "The account need to have more than a day in our tracker. We run a job daily at 8 AM Ph time to add the today SLP into account. We can't get your historical data if your account is too new or you did a claim yesterday. You'll need to come tomorrow": "계정은 트래커에 하루 이상 있어야 합니다. 어제 SLP 량을 계정에 추가하기 위해 매일 오전 8시에 작업을 실행합니다. 계정을 새로 추가하거나 어제 청구한 경우 과거 데이터를 가져올 수 없습니다. 내일 다시 시도해야합니다.",
-  "Last %numberOfBattles% battles": "최근 %numberOfBattles% 배틀"
+  "Last %numberOfBattles% battles": "최근 %numberOfBattles% 배틀",
+  "Search external ronin account": "외부 로닌 계정 검색"
 }

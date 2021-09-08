@@ -158,5 +158,6 @@
   "Copied": "",
   "The account need to have more than two days in our tracker. We run a job daily at 8 AM Ph time to add the yesterday SLP into account. We can't get your historical data if your account is too new or you did a claim yesterday. You'll need to come tomorrow": "",
   "The account need to have more than a day in our tracker. We run a job daily at 8 AM Ph time to add the today SLP into account. We can't get your historical data if your account is too new or you did a claim yesterday. You'll need to come tomorrow": "",
-  "Last %numberOfBattles% battles": ""
+  "Last %numberOfBattles% battles": "",
+  "Search external ronin account": ""
 }
