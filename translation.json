@@ -186,6 +186,6 @@
   "This page contains a checklist for your payments. Here you will only see the accounts which are claimable and also have SLP in their Ronin wallet. It's purpose is to allow you to easily copy the Ronin address and also see how much you need to transfer. It is for information purposes only.": "",
   "SLP average": "",
   "Energy / day ⚡": "",
-  "Hatch ready at %timeToHatch%": ""
-
+  "Hatch ready at %timeToHatch%": "",
+  "Monthly donations using patreon": ""
 }
