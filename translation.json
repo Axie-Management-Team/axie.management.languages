@@ -189,5 +189,11 @@
   "Hatch ready at %timeToHatch%": "",
   "Monthly donations through Patreon": "",
   "Update": "",
-  "Add Ronin": ""
+  "Add Ronin": "",
+  "Scholar %scholarName% has no payout address": "",
+  "Scholar %scholarName% is missing the investor payout ronin": "",
+  "Click to fix": "",
+  "Automatic": "",
+  "Parts": "",
+  "Today so far:": ""
 }
