@@ -195,5 +195,19 @@
   "Click to fix": "",
   "Automatic": "",
   "Parts": "",
-  "Today so far:": ""
+  "Today so far:": "",
+  "PVP Rating": "",
+  "SLP gained is not only based on your MMR it's calculated also with your oponent's MMR.": "",
+  "If they are in a lower band than you are, then you'll earn the SLP of that band if you win.": "",
+  "From %fromEloNumber% to %toEloNumber% ELO accounts get %numberEloWon% SLP": "",
+  "This feature is only for logged users , please log in first": "",
+  "Share academy links": "",
+  "You can generate links and share to your friends and scholars to let them see the fields you want": "",
+  "Link name": "",
+  "Preview URL": "",
+  "Update shared link": "",
+  "Name (it's private for you)": "",
+  "Hide view details": "",
+  "* Data is cached for 20 minutes.": "",
+  "* Changes could take 20 minutes to update": ""
 }
