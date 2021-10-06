@@ -1,4 +1,4 @@
-  {
+ {
   "Tracker": "查看器",
   "Axies": "Axie查看",
   "Payments": "付款功能",
@@ -210,4 +210,4 @@
   "Hide view details": "隐藏查看详情",
   "* Data is cached for 20 minutes.": "数据缓存20分钟。",
   "* Changes could take 20 minutes to update": "更改可能需要20分钟才能更新"
-  }
+}
