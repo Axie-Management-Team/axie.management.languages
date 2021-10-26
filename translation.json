@@ -35,7 +35,6 @@
   "Today": "",
   "Yesterday": "",
   "Average": "",
-  "ELO & Win Rate": "",
   "Next claim": "",
   "In Ronin": "",
   "Investor": "",
@@ -236,5 +235,14 @@
   "Transactions": "",
   "ERC20 Transfer": "",
   "ERC721 Transfer": "",
-  "Collapsed Scholar list view": ""
+  "Collapsed Scholar list view": "",
+  "Axie Contract": "",
+  "Axie Infinity Shard (AXS) Contract": "",
+  "Ronin Wrapped Ether (WETH) Contract": "",
+  "Smooth Love Potion (SLP) Contract": "",
+  "Stake AXS Contract": "",
+  "Unstake AXS Contract": "",
+  "Ronin Gateway Contract": "",
+  "Payout %accountName%": "",
+  "Investor %accountName%": ""
 }
