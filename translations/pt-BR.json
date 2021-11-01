@@ -41,7 +41,7 @@
   "Investor": "Investidor",
   "Today's / Yesterday's SLP": "Hoje / Ontem SLP",
   "We run a daily job to gather data at 12 AM GMT (8 AM PHT). Any SLP that is earned and then withdrawn between two daily snapshots is not recorded and will not be visible. If your account is new and shows 0, it means that we do not have historical data yet.": "Executamos um cron diariamente às 8h00 horário das Filipinas, se sua conta for nova e mostrar 0 significa que não temos dados históricos ainda. Além disso, se você der claim ontem ou hoje, não poderemos fazer o cálculo do seu SLP de hoje porque não temos como saber se o claim foi realizado antes do diário / ou não.",
-  "The formula is unclaimed / last claim date. For example, 6000 unclaimed / 22 days since the last claim = 273 (rounding up).": "A fórmula é Último claim / data do claim. Por exemplo 6000 que não foi dado claim / 22 dias antes do último claim = 273 (arredondando para cima).",
+  "By default we make average from last 30 days in the tracker. Or you can change into Options to Calculate AVG from last unclaimed and will apply the formula is unclaimed / last claim date. For example, 6000 unclaimed / 22 days since the last claim = 273 (rounding up).": "A fórmula é Último claim / data do claim. Por exemplo 6000 que não foi dado claim / 22 dias antes do último claim = 273 (arredondando para cima).",
   "Colors": "Cores",
   "An SLP value is marked as red if less than %slpColorRed% SLP per day, orange between %slpColorRed% and %slpColorOrange%, and green over %slpColorGreen% SLP. You can change these values in Options.": "Marcado como vermelho quando for inferior a 50 SLP por dia, laranja entre 50 e 75 e verde significa mais de 75 SLP.",
   "SLP/win": "SLP/Vitória",

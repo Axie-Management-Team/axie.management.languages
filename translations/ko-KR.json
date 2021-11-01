@@ -40,7 +40,7 @@
   "Investor": "투자자",
   "Today's / Yesterday's SLP": "오늘 / 어제 SLP",
   "We run a daily job to gather data at 12 AM GMT (8 AM PHT). Any SLP that is earned and then withdrawn between two daily snapshots is not recorded and will not be visible. If your account is new and shows 0, it means that we do not have historical data yet.": "우리는 매일 오전 8시에 스케줄러를 실행합니다. 만약, 귀하의 계정이 새 계정이고 0을 표시하는 경우 이는 아직 과거 데이터가 없음을 의미합니다. 또한 어제 또는 오늘 인출하는 경우 일일 SLP 를 계산할 수 없습니다.",
-  "The formula is unclaimed / last claim date. For example, 6000 unclaimed / 22 days since the last claim = 273 (rounding up).": "공식은 (최근 미청구량 / 최근 청구일) 입니다. 예를 들어 6000의 미청구량과 22일전이 최근 청첯일이라면 반올림하여 273 입니다.",
+  "By default we make average from last 30 days in the tracker. Or you can change into Options to Calculate AVG from last unclaimed and will apply the formula is unclaimed / last claim date. For example, 6000 unclaimed / 22 days since the last claim = 273 (rounding up).": "공식은 (최근 미청구량 / 최근 청구일) 입니다. 예를 들어 6000의 미청구량과 22일전이 최근 청첯일이라면 반올림하여 273 입니다.",
   "Colors": "색깔",
   "An SLP value is marked as red if less than %slpColorRed% SLP per day, orange between %slpColorRed% and %slpColorOrange%, and green over %slpColorGreen% SLP. You can change these values in Options.": "하루에 50 SLP 이하를 모든경우 빨간색, 50 에서 75 사이는 주황색, 75 이상은 초록색입니다.",
   "SLP/win": "SLP/승리시",

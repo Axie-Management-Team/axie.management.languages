@@ -40,7 +40,7 @@
   "Investor": "股东",
   "Today's / Yesterday's SLP": "今天/昨天 SLP",
   "We run a daily job to gather data at 12 AM GMT (8 AM PHT). Any SLP that is earned and then withdrawn between two daily snapshots is not recorded and will not be visible. If your account is new and shows 0, it means that we do not have historical data yet.": "我们每天都会在格林威治标准时间上午 12 点（太平洋标准时间上午 8 点）收集数据。 在两次每日快照之间赚取然后提取的任何 SLP 都不会被记录，也将不可见。 如果您的帐户是新帐户并且显示为 0，则表示我们还没有历史数据。",
-  "The formula is unclaimed / last claim date. For example, 6000 unclaimed / 22 days since the last claim = 273 (rounding up).": "公式是最后一次等待领取÷认领日期。例如，6000SLP等待领取÷上次认领前22天=273(四舍五入)",
+  "By default we make average from last 30 days in the tracker. Or you can change into Options to Calculate AVG from last unclaimed and will apply the formula is unclaimed / last claim date. For example, 6000 unclaimed / 22 days since the last claim = 273 (rounding up).": "公式是最后一次等待领取÷认领日期。例如，6000SLP等待领取÷上次认领前22天=273(四舍五入)",
   "Colors": "外观颜色",
   "An SLP value is marked as red if less than %slpColorRed% SLP per day, orange between %slpColorRed% and %slpColorOrange%, and green over %slpColorGreen% SLP. You can change these values in Options.": "如果每天低于 %slpColorRed% SLP，则 SLP 值被标记为红色，在 %slpColorRed% 和 %slpColorOrange% 之间为橙色，超过 %slpColorGreen% SLP 为绿色。 您可以在选项中更改这些值。",
   "SLP/win": "药水/赢1局",
